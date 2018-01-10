@@ -5,4 +5,7 @@ abstract class AKS {
 		System.out.println("HI"
 				+ "");
 	}
+	public static void m1() {
+		System.out.println("I am static");
+	}
 }
